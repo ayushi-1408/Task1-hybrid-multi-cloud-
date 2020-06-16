@@ -58,3 +58,7 @@
 ### Glance of my home page
 ![Screenshot (101)](https://user-images.githubusercontent.com/60479969/84746103-1e53f380-afd3-11ea-9c35-39fbc7ed2a75.png)
 
+
+### terraform validate for validating the syntax of the code in file with extension .tf
+### terraform apply (-auto-approve) for applying all the resources adding them
+### terraform destroy (-auto-approve) for destroying all the resources
